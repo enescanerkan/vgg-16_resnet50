@@ -2,22 +2,6 @@
 
 This project implements image classification using two different models: VGG16 and ResNet50. (Bu proje, VGG16 ve ResNet50 adlı iki farklı model kullanarak görüntü sınıflandırması yapmaktadır.) Both models are trained on the Flower Photos dataset. (Her iki model, Flower Photos veri seti üzerinde eğitilmiştir.)
 
-## USAGE
-
-### INSTALLATION OF REQUIRED LIBRARIES
-Before running the application, install the required libraries by executing the following command: (Uygulamayı çalıştırmadan önce gerekli kütüphaneleri aşağıdaki komutu çalıştırarak kurun:)
-
-```bash
-pip install -r requirements.txt
-```
-Then, run the application using the command: (Ardından uygulamayı aşağıdaki komut ile çalıştırın)
-```bash
-python Vgg-16.py
-```
-or
-```bash
-python Resnet.py
-```
 
 ## TRAINING
 
